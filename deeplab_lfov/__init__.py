@@ -1,0 +1,2 @@
+from .finetune_mian_diff_initial_classify import DeepLabLFOVModel
+from .finetune_VGG_deeplab_seg import DeepLabSEGModel
