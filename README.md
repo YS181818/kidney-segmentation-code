@@ -28,17 +28,17 @@ The proposed networks were implemented based on Python 3.7.0 and TensorFlow r1.1
 
 Training：
 -------
-We initialized the network from the VGG_16.npy
-Training the end-to-end learning of subsequent segmentation networks: train_end_to_end.py
+We initialized the network from the VGG_16.npy<br>
+Training the end-to-end learning of subsequent segmentation networks: train_end_to_end.py<br>
 Training the Bnet: train_Bnet.py
 
 
 Evaluation:
 -------
-Evaluating the end-to-end learning of subsequent segmentation networks: evaluate_end_to_end.py
+Evaluating the end-to-end learning of subsequent segmentation networks: evaluate_end_to_end.py<br>
 Evaluating the Bnet: evaluate_Bnet.py
 
 Data augmentation:
 -------
-data augmentaion/main_preprocessing.m
+data augmentaion/main_preprocessing.m<br>
 The dataaugmentation code was implemented based on Matlab R2015b
